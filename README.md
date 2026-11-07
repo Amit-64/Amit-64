@@ -87,7 +87,7 @@ An intelligent **deal analysis platform** that evaluates and scores trade deals 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amit-64&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Amit-64&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
