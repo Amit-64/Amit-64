@@ -1,87 +1,105 @@
 <h1 align="center">Hi there, I'm Amit Mahale 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=8A63D2&center=true&vCenter=true&width=600&lines=Full-Stack+%2B+AI%2FML+Developer;Building+IDRO+%26+Trade+Trust;Competitive+Programmer+on+LeetCode+%2F+CodeChef;Open+to+Internships+%26+Freelance+Work" alt="Typing SVG" />
+  <b>Full-Stack Developer · DSA Enthusiast · Oracle Certified Professional</b><br/>
+  <i>Computer Science undergraduate @ Parul University, Vadodara, India</i>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/amit-mahale64"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/amit_mahale11/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
   <a href="mailto:amitmahale00@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/amit-mahale64"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Amit-64"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
-### 🚀 About Me
+## 🧑‍💻 About Me
 
-- 🎓 4th-year Computer Science undergraduate
-- 💻 Full-stack developer with a growing focus on **AI/ML engineering**
-- 🧠 Actively solving problems on **LeetCode, GeeksforGeeks & CodeChef** — deep into sliding windows, monotonic stacks, prefix sums & greedy techniques
-- 🛠️ Currently building **IDRO** (AI-powered disaster resource optimizer) and **Trade Trust** (NLP-based deal analysis platform)
-- ☁️ Oracle Certified: Java SE 17, OCI 2025 Foundations Associate, APEX Cloud Developer Professional
-- 📫 Open to **Software Development / AI-ML internships** and freelance opportunities
-
----
-
-### 🧰 Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,react,nodejs,flask,spring,mysql,mongodb,aws,docker,git,linux&theme=dark" />
-</p>
-
-**AI / ML:** TensorFlow · Keras · Scikit-learn · Pandas · NumPy · NLP · TF-IDF · Cosine Similarity · CNNs
+- 🎓 **B.Tech in Computer Science** at Parul University *(Aug 2023 – Present)* | CGPA: **8.12 / 10**
+- 🧩 Solved **750+ DSA problems** on LeetCode, GeeksforGeeks, CodeChef & HackerRank
+- 🏗️ Building full-stack web apps with the **MERN Stack** (MongoDB, Express.js, React, Node.js)
+- 🏆 **4th place** at PU Code Hackathon 3.0 (University-Level, 2025)
+- 🔍 Actively seeking **software development internship** opportunities
+- ☁️ Holds **3 Oracle Professional Certifications**
 
 ---
 
-### 📌 Featured Projects
+## 🛠️ Tech Stack
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### 🌍 [IDRO – Intelligent Disaster Resource Optimizer](https://github.com/Amit-64/IDRO-ML)
-Full-stack disaster management platform coordinating NGOs, volunteers & government agencies across 85+ relief camps. Uses a weighted scoring engine (severity, distance, wait-time) to cut resource distribution delays by **40%**, with an AI-powered predictive analytics layer for shortage forecasting.
- `Python` `MySQL`
-
-</td>
-<td width="50%" valign="top">
-
-#### 💼 Trade Trust – Deal Analysis Platform
-NLP-driven deal analysis platform that parses documents and scores trade deals using a multi-factor trust engine (counterparty history, deal trends, sentiment analysis), flagging high-risk transactions with **88%+ accuracy**.
-
-`Python` `Flask` `React` `Pandas` `NLP`
-
-</td>
-</tr>
-</table>
+| Category | Technologies |
+|---|---|
+| **Languages** | C++, Python, JavaScript, Java |
+| **DSA** | Arrays, Strings, Searching, Sliding Window, Two Pointers, Linked Lists, Stacks, Queues, Maps, Sets |
+| **MERN Stack** | MongoDB, Express.js, React, Node.js |
+| **Libraries** | Pandas, NumPy |
+| **AI / ML** | ML Fundamentals, Classification, Regression |
+| **Databases** | MongoDB, MySQL |
+| **Cloud & DevOps** | AWS, OCI, Git, GitHub |
+| **Tools** | Postman, VS Code |
 
 ---
 
-### 📊 GitHub Stats
+## 🚀 Projects
+
+### 🌐 IDRO — Intelligent Disaster Resource Optimizer
+> *MongoDB · Express.js · React · Node.js · Python*
+
+A full-stack **disaster management platform** designed for real-time coordination among NGOs, volunteers, and government agencies across **85+ active relief camps**.
+
+- ⚙️ Architected a Node.js/Express.js REST backend with a React frontend
+- 📦 Built a smart **resource allocation engine** using a weighted scoring algorithm (severity, Haversine distance, wait-time) — reduced resource distribution delays by **40%**
+- 📊 Implemented a live tactical dashboard with **React-Leaflet satellite maps**, real-time intel streams & camp urgency rankings
+
+---
+
+### 📈 Trade Trust — Deal Analysis Platform
+> *MongoDB · Express.js · React · Node.js · Pandas*
+
+An intelligent **deal analysis platform** that evaluates and scores trade deals using keyword-based document parsing, financial metric extraction, and risk assessment algorithms.
+
+- 🤝 Engineered a multi-factor **trust scoring engine** using counterparty history, deal volume trends & sentiment analysis — achieving **88%+ accuracy** in flagging high-risk transactions
+- 📉 Built a responsive React dashboard with real-time deal tracking, interactive analytics charts & automated alert notifications via a Node.js/Express.js REST API backend
+
+---
+
+## 🏅 Achievements
+
+- 🧠 Solved **750+ DSA problems** across LeetCode, GeeksforGeeks, CodeChef & HackerRank
+- 🥇 **4th place** @ PU Code Hackathon 3.0 (University-Level, 2025) — built an end-to-end prototype for real-world disaster management within a **36-hour sprint**
+
+---
+
+## 📜 Certifications
+
+| Certification | Issuer | Year |
+|---|---|---|
+| Oracle Certified Professional: Java SE 17 Developer (1Z0-829) | Oracle | 2024 |
+| Oracle Cloud Infrastructure 2025 Foundations Associate (1Z0-1085-25) | Oracle | 2026 |
+| Oracle Cloud Infrastructure Certified Data Science Professional | Oracle | 2026 |
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Amit-64&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=3600" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amit-64&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=3600" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Amit-64&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amit-64&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amit-64&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/amit_mahale11?theme=dark&font=Fira%20Code&ext=heatmap" />
-</p>
-
 ---
 
-### 🐍 Contribution Snake
+## 🤝 Let's Connect
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Amit-64/Amit-64/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+I'm open to **software development & full-stack engineering internships**, freelance projects, and collaborations in **MERN stack development, AI/ML, and cloud-based systems architecture**.
+
+> 📬 Reach me at [amitmahale00@gmail.com](mailto:amitmahale00@gmail.com) or connect on [LinkedIn](https://linkedin.com/in/amit-mahale64)
 
 ---
 
 <p align="center">
-  <i>⚡ "Consistent problem-solver focused on building scalable, maintainable, production-ready solutions."</i>
+  <img src="https://komarev.com/ghpvc/?username=Amit-64&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
