@@ -41,8 +41,7 @@
 
 #### 🌍 [IDRO – Intelligent Disaster Resource Optimizer](https://github.com/Amit-64/IDRO-ML)
 Full-stack disaster management platform coordinating NGOs, volunteers & government agencies across 85+ relief camps. Uses a weighted scoring engine (severity, distance, wait-time) to cut resource distribution delays by **40%**, with an AI-powered predictive analytics layer for shortage forecasting.
-
-`Java` `Spring Boot` `React` `Python` `MySQL`
+ `Python` `MySQL`
 
 </td>
 <td width="50%" valign="top">
