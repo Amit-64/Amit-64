@@ -1,105 +1,105 @@
-<h1 align="center">Hi there, I'm Amit Mahale 👋</h1>
+<div align="center">
 
-<p align="center">
-  <b>Full-Stack Developer · DSA Enthusiast · Oracle Certified Professional</b><br/>
-  <i>Computer Science undergraduate @ Parul University, Vadodara, India</i>
-</p>
+# Hey there, I'm Amit 👋
 
-<p align="center">
-  <a href="mailto:amitmahale00@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/amit-mahale64"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Amit-64"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+**Backend Developer · DSA Enthusiast · CS Undergrad**
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-amit--mahale64-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amit-mahale-4483162a6/)
+[![Gmail](https://img.shields.io/badge/Gmail-amitmahale00-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amitmahale00@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
+[![GeeksforGeeks](https://img.shields.io/badge/GFG-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/)
 
-## 🧑‍💻 About Me
-
-- 🎓 **B.Tech in Computer Science** at Parul University *(Aug 2023 – Present)* | CGPA: **8.12 / 10**
-- 🧩 Solved **750+ DSA problems** on LeetCode, GeeksforGeeks, CodeChef & HackerRank
-- 🏗️ Building full-stack web apps with the **MERN Stack** (MongoDB, Express.js, React, Node.js)
-- 🏆 **4th place** at PU Code Hackathon 3.0 (University-Level, 2025)
-- 🔍 Actively seeking **software development internship** opportunities
-- ☁️ Holds **3 Oracle Professional Certifications**
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+### 🧑‍💻 About Me
 
-| Category | Technologies |
+- 🎓 4th-year **B.Tech in Computer Science** at Parul University, Vadodara
+- 🧠 Solved **850+ DSA problems** across LeetCode, GFG, CodeChef & HackerRank
+- 🔧 I love building **secure, production-grade backend systems** — APIs, auth, ledgers, the works
+- 🏆 **4th place** at PU Code Hackathon 3.0 (36-hour build sprint)
+- 🔍 Currently seeking **SDE / Backend Engineering internships**
+
+---
+
+### 🛠️ Tech Stack
+
+| Domain | Technologies |
 |---|---|
-| **Languages** | C++, Python, JavaScript, Java |
-| **DSA** | Arrays, Strings, Searching, Sliding Window, Two Pointers, Linked Lists, Stacks, Queues, Maps, Sets |
-| **MERN Stack** | MongoDB, Express.js, React, Node.js |
-| **Libraries** | Pandas, NumPy |
-| **AI / ML** | ML Fundamentals, Classification, Regression |
-| **Databases** | MongoDB, MySQL |
-| **Cloud & DevOps** | AWS, OCI, Git, GitHub |
-| **Tools** | Postman, VS Code |
+| **Languages** | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) REST APIs · RBAC · bcrypt |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
+| **Core CS** | Data Structures & Algorithms · OOP · DBMS · Operating Systems |
 
 ---
 
-## 🚀 Projects
+### 🚀 Featured Projects
 
-### 🌐 IDRO — Intelligent Disaster Resource Optimizer
-> *MongoDB · Express.js · React · Node.js · Python*
+<table>
+<tr>
+<td width="50%" valign="top">
 
-A full-stack **disaster management platform** designed for real-time coordination among NGOs, volunteers, and government agencies across **85+ active relief camps**.
+#### 🏢 [Multi-Tenant Enterprise B2B SaaS Backend](https://github.com/Amit-64/multi-tenant-saas-backend)
+> Node.js · Express.js · PostgreSQL · JWT
 
-- ⚙️ Architected a Node.js/Express.js REST backend with a React frontend
-- 📦 Built a smart **resource allocation engine** using a weighted scoring algorithm (severity, Haversine distance, wait-time) — reduced resource distribution delays by **40%**
-- 📊 Implemented a live tactical dashboard with **React-Leaflet satellite maps**, real-time intel streams & camp urgency rankings
+- Multi-tenant REST API with strict `tenant_id` scoping from verified JWT claims to prevent BOLA/IDOR
+- 5-table RBAC system using `resource:action` permissions
+- Refresh token rotation with SHA-256 hashing & replay detection
+- Tamper-evident SHA-256 hash-chained audit log with verification endpoint
+- ACID transactions for atomic tenant onboarding
+- Secured with `helmet`, Joi validation & rate limiting
 
----
+</td>
+<td width="50%" valign="top">
 
-### 📈 Trade Trust — Deal Analysis Platform
-> *MongoDB · Express.js · React · Node.js · Pandas*
+#### 💰 [Double-Entry Payments Ledger](https://github.com/Amit-64/payments-ledger)
+> Node.js · Express.js · PostgreSQL
 
-An intelligent **deal analysis platform** that evaluates and scores trade deals using keyword-based document parsing, financial metric extraction, and risk assessment algorithms.
+- Double-entry ledger API with zero-sum debit/credit in `BIGINT` minor units
+- Atomic ACID transfers with deterministic `SELECT ... FOR UPDATE` row locking to prevent races & deadlocks
+- `Idempotency-Key` engine with SHA-256 payload fingerprinting (422 on tamper, 409 on in-flight duplicates)
+- Immutable compensating reversals guarded by a partial unique index against double refunds
 
-- 🤝 Engineered a multi-factor **trust scoring engine** using counterparty history, deal volume trends & sentiment analysis — achieving **88%+ accuracy** in flagging high-risk transactions
-- 📉 Built a responsive React dashboard with real-time deal tracking, interactive analytics charts & automated alert notifications via a Node.js/Express.js REST API backend
-
----
-
-## 🏅 Achievements
-
-- 🧠 Solved **750+ DSA problems** across LeetCode, GeeksforGeeks, CodeChef & HackerRank
-- 🥇 **4th place** @ PU Code Hackathon 3.0 (University-Level, 2025) — built an end-to-end prototype for real-world disaster management within a **36-hour sprint**
-
----
-
-## 📜 Certifications
-
-| Certification | Issuer | Year |
-|---|---|---|
-| Oracle Certified Professional: Java SE 17 Developer (1Z0-829) | Oracle | 2024 |
-| Oracle Cloud Infrastructure 2025 Foundations Associate (1Z0-1085-25) | Oracle | 2026 |
-| Oracle Cloud Infrastructure Certified Data Science Professional | Oracle | 2026 |
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amit-64&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amit-64&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Amit-64&theme=tokyonight&hide_border=true" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Amit-64&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amit-64&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+
+</div>
 
 ---
 
-## 🤝 Let's Connect
+### 🏅 Achievements
 
-I'm open to **software development & full-stack engineering internships**, freelance projects, and collaborations in **MERN stack development, AI/ML, and cloud-based systems architecture**.
-
-> 📬 Reach me at [amitmahale00@gmail.com](mailto:amitmahale00@gmail.com) or connect on [LinkedIn](https://linkedin.com/in/amit-mahale64)
+- 🧩 **850+ DSA Problems** — Arrays, strings, sliding window, two pointers, linked lists, stacks, queues, maps, sets and more
+- 🥉 **4th Place — PU Code Hackathon 3.0** (2025) — Built an end-to-end disaster management prototype in 36 hours
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Amit-64&color=blueviolet&style=flat-square" alt="Profile Views" />
-</p>
+### 🔥 Streak
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Amit-64&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+<div align="center">
+
+**💬 Let's connect — I'm always up for a conversation about backend systems, DSA, or new opportunities!**
+
+![Profile Views](https://komarev.com/ghpvc/?username=Amit-64&color=blueviolet&style=flat-square)
+
+</div>
