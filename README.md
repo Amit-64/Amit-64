@@ -68,17 +68,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Amit-64&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amit-64&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-
-</div>
-
----
-
 ### 🏅 Achievements
 
 - 🧩 **850+ DSA Problems** — Arrays, strings, sliding window, two pointers, linked lists, stacks, queues, maps, sets and more
